@@ -14,6 +14,21 @@ pnpm dev
 bun dev
 ```
 
+```bash
+npm i mongodb
+npm i @radix-ui/react-select
+npm i @radix-ui/react-label
+npm i @radix-ui/react
+npm i @radix-ui/react-slot
+npm i @radix-ui/react-ui-library
+npm i next-themes
+npm i lucide-react
+npm i react-hook-form
+npm i tailwind-merge
+npm i @radix-ui/react-dropdown-menu
+npm i class-variance-autority
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
